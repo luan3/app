@@ -141,7 +141,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>5.1.35</version>
+      <version>8.0.28</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
     <!--fastjson:将字符串、对象、集合、数组转成Json字符串-->
